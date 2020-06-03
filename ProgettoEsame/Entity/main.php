@@ -13,4 +13,3 @@ print "$Serie\n";
 print "$Giochi\n";
 print "$Libri\n";
 print "$Musica";
-print "$Libri";
