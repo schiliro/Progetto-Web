@@ -13,3 +13,4 @@ print "$Serie\n";
 print "$Giochi\n";
 print "$Libri\n";
 print "$Musica";
+//aggiungo questo commento
